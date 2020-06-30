@@ -1,0 +1,8 @@
+Here are the error message strings for Project 4
+Error in year. Please try again.
+Error in file name:",filename," Please try again.    
+Error in year. Please try again.
+Error in get_percent: shouldn't get to this print
+Error in percent. Please try again
+Error: income must be positive
+Error in selection.
